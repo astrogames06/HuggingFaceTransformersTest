@@ -1,0 +1,6 @@
+transformers
+diffusers
+langchain
+huggingface_hub
+torch
+accelerate
